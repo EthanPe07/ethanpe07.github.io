@@ -1,1 +1,1 @@
-# EthanPe07.github.io
+# ethanpe07.github.io
