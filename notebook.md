@@ -19,23 +19,20 @@ Saves time, saves money, and saves energy
 
 | Term             | Definition                                         |Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |Basic building block of a Flutter app. Everything   Text,Image,Container,Column
-                    Everything is a widget.                                           
-| MaterialApp      |The root of the app. Sets up routes and themes.     found in main.dart                                                                                      
-| Scaffold         |Provides basic visual layout - like a header,body,  Each screen uses it
-|                   floating button.
-| StatelessWidget  |A widget that doesn't change                        Most of the screen files                                                                    
-| StatefulWidget   |A widget that can change over time                  Used in MyHomePage()                                                                           
-| Navigator        |Manage screen transitions                           Navigator.pushNamed(context, '/page2');                                                                  
-| AppBar           |Top navigation bar                                  Title of each page appears here                                                          
+| Widget           |Basic building block of a Flutter app. Everything is a widget.  | Text,Image,Container,Column|
+| MaterialApp      |The root of the app. Sets up routes and themes.    | found in main.dart                       |                                                               
+| Scaffold         |Provides basic visual layout - like a header,body, | Each screen uses it|
+|                  | floating button.                                |                                         |
+| StatelessWidget  |A widget that doesn't change                       | Most of the screen files                  |                                                  
+| StatefulWidget   |A widget that can change over time                 | Used in MyHomePage()                       |                                                    
+| Navigator        |Manage screen transitions                          | Navigator.pushNamed(context, '/page2');     |                                                             
+| AppBar           |Top navigation bar                                |  Title of each page appears here              |                                            
 | Column           |                                                  |                                           |
 | Row              |                                                  |                                           |
 | Container        |                                                  |                                           |
 | Text             |                                                  |                                           |
 | Image.network    |                                                  |                                           |
-
 | Padding    |                    |                     |
-  
 | Center      |                    |                     |
 
 ---
