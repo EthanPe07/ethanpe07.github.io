@@ -29,8 +29,8 @@ Saves time, saves money, and saves energy
 |  List    | A collection of values in a specific order. | `List<String> names = [];` | Organized books |  |
 | Null     | A special value that means “nothing.” | `String? name = null;` | Anywhere with information but not known yet |  |
 | Function     | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Vending machine |  |
-| Parameter     | The information passed into a function to change how it works. | `greet(String name)` |  |  |
-|      | The result a function gives back. | `return total;` |  |  |
+| Parameter     | The information passed into a function to change how it works. | `greet(String name)` | deposit money |  |
+| Return     | The result a function gives back. | `return total;` | Reciept |  |
 |      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
 |      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
 |      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
